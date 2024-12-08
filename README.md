@@ -192,5 +192,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## **Autor**
 
-- **Gabriel Silva Oliveira**
+- **Felipe Moreira Mares**
 ```
