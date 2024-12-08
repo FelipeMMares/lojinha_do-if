@@ -1,8 +1,3 @@
-### Product Management API
-
-A **Product Management API** é um serviço backend construído com **Node.js** e **Express**, projetado para gerenciar produtos, clientes e compras. Ela inclui funcionalidades de CRUD (Create, Read, Update, Delete) e permite integração com sistemas front-end para gerenciamento eficiente de dados.
-
----
 
 ## **Funcionalidades**
 
